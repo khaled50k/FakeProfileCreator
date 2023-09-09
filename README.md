@@ -1,4 +1,4 @@
-# FakeProfileCreator# UserGen
+# UserGen
 
 UserGen is a simple utility for generating fake user data, including names, usernames, emails, passwords, and profile pictures. It's useful for testing and development purposes when you need realistic-looking user data.
 
